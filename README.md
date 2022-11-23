@@ -1,4 +1,4 @@
-# DeSearch
+# Desearch
 ## Inspiration
 As freshmen who just left their parents, we know how important it is to filter the internet for clean and impressionable search results during our younger days. With widespread access to the internet, children can not only access sites they shouldn't see at that age, but the data they access will also influence how they think. To encourage children to form their own opinions, we developed a search engine built specifically to filter out inappropriate information and propagate with unbiased, educational search results. 
 
